@@ -1,3 +1,5 @@
+//This is a program for printing hello world
+
 #include <stdio.h>
 int main()
 {
