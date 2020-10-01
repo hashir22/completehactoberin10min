@@ -1,3 +1,5 @@
+//This is a program to find whether a no. is odd or even
+
 #include <stdio.h>
 int main()
 {
